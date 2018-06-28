@@ -1,1 +1,1 @@
-# udacity
+Pixel Art Maker Project
